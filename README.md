@@ -1,0 +1,1 @@
+# scamalytics2
